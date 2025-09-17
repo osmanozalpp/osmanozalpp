@@ -12,11 +12,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=osmanozalpp&langs_count=10&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=osmanozalpp&show_icons=true&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
-
-### 🥧 Language Pie Chart
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=osmanozalpp&layout=pie&langs_count=10&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
-
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=osmanozalpp&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
